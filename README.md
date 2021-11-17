@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Victor Sollecito <br>
+_Tester_ <br>
 
-You can use the [editor on GitHub](https://github.com/vsollecito/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Email](mailto:vsollecito@gmail.com) / [GitHub](https://github.com/vsollecito/) / [LinkedIn](https://www.linkedin.com/in/victorsollecito/) <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 👨‍💻 Technical Experience <br>
 
-### Markdown
+**Senior Automated QA Engineer** @ [ION](https://iongroup.com/) _(April 2019 - Present)_ <br>
+Helping to enable financial institutions, central banks and corporations to digitize and automate their most business critical processes. <br>
+- Automating end-to-end tests in C# using an in house automation framework.
+- **_Technologies used:_** C#, .NET, Visual Studio, Jenkins, Perforce, Review Board, HP Quality Center, Jira
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 👨‍🎓 Education <br>
 
-```markdown
-Syntax highlighted code block
+**Bachelor of Science** in Computer Science <br>
+[SUNY Polytechnic Institute](https://sunypoly.edu/) - Utica, New York, USA _(2002 - 2004)_ <br>
 
-# Header 1
-## Header 2
-### Header 3
+**Associate of Science** in Computer Science <br>
+[SUNY Orange](https://sunyorange.edu/) - Middletown, New York, USA _(2000 - 2002)_ <br>
 
-- Bulleted
-- List
+## 📜 Training and Certifications <br>
 
-1. Numbered
-2. List
+**Association for Software Testing - Black Box Software Testing - Foundations** <br>
+[Course Overview](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/foundations/) / [Graduates](https://associationforsoftwaretesting.org/graduates/) <br>
+_October 2020_ <br>
 
-**Bold** and _Italic_ and `Code` text
+**Association for Software Testing - Black Box Software Testing - Test Design** <br>
+[Course Overview](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/test-design/) / [Graduates](https://associationforsoftwaretesting.org/graduates/) <br>
+_July 2021_ <br>
 
-[Link](url) and ![Image](src)
-```
+## 🌎 Groups <br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsollecito/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Association for Software Testing** <br>
+_November 2019 to Present_ <br>
