@@ -6,7 +6,7 @@ _Tester_ <br>
 ## 👨‍💻 Technical Experience <br>
 
 **Senior Automated QA Engineer** @ [ION](https://iongroup.com/) _(April 2019 - Present)_ <br>
-Helping to enable financial institutions, central banks and corporations to digitize and automate their most business critical processes. <br>
+Helping to enable financial institutions, central banks and corporations digitize and automate their most business critical processes. <br>
 - Automating end-to-end tests in C# using an in house automation framework.
 - **_Technologies used:_** C#, .NET, Visual Studio, Jenkins, Perforce, Review Board, HP Quality Center, Jira
 <br>
