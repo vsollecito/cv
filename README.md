@@ -35,13 +35,13 @@ Worked on cross domain solution contracts for the Air Force Research Laboratory.
 
 ## 📜 Training and Certifications <br>
 
-[**AST - BBST - Foundations**](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/foundations/) _(October 2020)_ <br>
+[AST - BBST - Foundations](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/foundations/) _(October 2020)_ <br>
 [Graduates](https://associationforsoftwaretesting.org/graduates/) <br>
 
-[**AST - BBST - Test Design**](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/test-design/) _(July 2021)_ <br>
+[AST - BBST - Test Design](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/test-design/) _(July 2021)_ <br>
 [Graduates](https://associationforsoftwaretesting.org/graduates/) <br>
 <br>
 
 ## 🌎 Groups <br>
 
-[**Association for Software Testing**](https://www.associationforsoftwaretesting.org/) _(November 2019 to Present)_<br>
+[Association for Software Testing](https://www.associationforsoftwaretesting.org/) _(November 2019 to Present)_<br>
