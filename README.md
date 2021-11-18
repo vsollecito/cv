@@ -31,12 +31,10 @@ Worked on cross domain solution contracts for the Air Force Research Laboratory.
 
 **Bachelor of Science** in Computer Science <br>
 [SUNY Polytechnic Institute](https://sunypoly.edu/) <br>
-Utica, New York, USA <br>
 _2002 - 2004_ <br>
 
 **Associate of Science** in Computer Science <br>
 [SUNY Orange](https://sunyorange.edu/) <br>
-Middletown, New York, USA <br>
 _2000 - 2002_ <br>
 <br>
 
