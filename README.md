@@ -17,7 +17,7 @@ Helping to enable financial institutions, central banks and corporations digitiz
 - **_Technologies used:_** Python, Perl, SQL, C#, Shell Scripting (bash, csh), HTML, HP Quality Center, Linux
 
 **Software Engineer** @ [ITT](https://www.itt.com/) _(March 2005 - October 2010)_<br>
-Worked on cross domain solution contracts for the Air Force Research Laboratory. <br>
+Developed and deployed cross domain solutions for the Air Force Research Laboratory. <br>
 - Designed and developed GUI interfaces for configuring and patching the system.
 - Developed cross domain filters to upgrade/downgrade information based on existing specifications.
 - Performed installations and training at customer sites.
