@@ -3,11 +3,10 @@
 ## 👨‍💻 Technical Experience <br>
 
 **Senior Automated QA Engineer** @ [ION Markets - Fidessa](https://iongroup.com/markets/products/fidessa/) _(April 2019 - Present)_<br>
-Helping to enable financial institutions, central banks and corporations digitize and automate their most business critical processes. <br>
 - Automating end-to-end tests in C# using an in house automation framework.
 - **_Technologies used:_** C#, .NET, Visual Studio, Jenkins, Perforce, Review Board, HP Quality Center, Jira
 
-**Senior QA Analyst** @ [ION Market - Fidessa](https://iongroup.com/markets/products/fidessa/) _(May 2011 - April 2019)_<br>
+**Senior QA Analyst** @ [ION Markets - Fidessa](https://iongroup.com/markets/products/fidessa/) _(May 2011 - April 2019)_<br>
 - Developed and maintained test cases and test scripts for technical areas where I was considered a subject matter expert.
 - Planned and performed regression testing on new releases.
 - Performed exploratory testing of the system focusing on high risk / high visibility areas.
