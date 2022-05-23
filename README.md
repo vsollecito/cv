@@ -8,7 +8,7 @@
 
 **Senior Automated QA Engineer** @ [ION Markets - Fidessa](https://iongroup.com/markets/products/fidessa/) _(April 2019 - Present)_<br>
 - Automating end-to-end tests in C# using an in house automation framework.
-- **_Technologies used:_** C#, .NET, Visual Studio, Jenkins, Perforce, Review Board, HP Quality Center, Jira
+- **_Technologies used:_** C#, .NET, Robot Framework, RIDE, Jenkins, Perforce, Review Board, HP Quality Center, Jira
 
 **Senior QA Analyst** @ [ION Markets - Fidessa](https://iongroup.com/markets/products/fidessa/) _(May 2011 - April 2019)_<br>
 - Developed and maintained test cases and test scripts for technical areas where I was considered a subject matter expert.
